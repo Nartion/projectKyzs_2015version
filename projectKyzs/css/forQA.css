@@ -1,0 +1,46 @@
+﻿body {
+    font-family: 'Microsoft YaHei';
+}
+
+textarea {
+    resize: none;
+}
+
+.mainbody {
+    width: 1024px;
+    z-index: -1;
+}
+
+#float {
+    width: 1024px;
+    margin: auto;
+    position:absolute;
+    top:150px;
+    background-color: #eeeeee;
+}
+
+.QA_Post_content {
+    width: 900px;
+    margin: auto 60px auto 60px;
+}
+
+.QA {
+    width: 900px;
+    margin: 20px auto auto auto;
+    box-shadow: #b5b5b5 1px 1px 10px;
+    background-color: #eeeeee;
+    border-radius: 10px 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #417ca3;
+}
+
+.QA_Info span {
+    float: right;
+}
+
+.QA_Reply span {
+    float: right;
+}

@@ -1,0 +1,10 @@
+E:\Projects\WebSite1\DAL2\bin\Debug\DAL2.dll
+E:\Projects\WebSite1\DAL2\bin\Debug\DAL2.pdb
+E:\Projects\WebSite1\DAL2\obj\Debug\DAL2.csprojResolveAssemblyReference.cache
+E:\Projects\WebSite1\DAL2\obj\Debug\DAL2.dll
+E:\Projects\WebSite1\DAL2\obj\Debug\DAL2.pdb
+D:\localproject\projectKyzs\DAL2\bin\Debug\DAL2.dll
+D:\localproject\projectKyzs\DAL2\bin\Debug\DAL2.pdb
+D:\localproject\projectKyzs\DAL2\obj\Debug\DAL2.csprojResolveAssemblyReference.cache
+D:\localproject\projectKyzs\DAL2\obj\Debug\DAL2.dll
+D:\localproject\projectKyzs\DAL2\obj\Debug\DAL2.pdb

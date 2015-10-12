@@ -1,0 +1,25 @@
+﻿body {
+    font-family: 'Microsoft YaHei';
+}
+
+.loginbox {
+    width: 600px;
+    height: 200px;
+    margin: 200px auto auto auto;
+    background-color: #417ca3;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    border-radius: 10px 10px;
+}
+
+.title {
+    margin-top: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.button{
+    margin:auto;
+    width:160px;
+}
+
